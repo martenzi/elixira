@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[COMPANY NAME] - Research & Infrastructure</title>
+    <title>[ELIXIR] - Research & Infrastructure</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -65,7 +65,7 @@
 <body>
 
     <header>
-        <h1>[COMPANY NAME]</h1>
+        <h1>[ELIXIR]</h1>
         <div class="tagline">Digital Infrastructure & Research</div>
     </header>
 
@@ -73,12 +73,12 @@
         <div class="status-block">
             <p><strong>Status:</strong> Currently operating in stealth development mode.</p>
             <p>Our team is focused on internal R&D, advanced analytics, and backend infrastructure architecture. We are not currently accepting new client engagements or public beta applications.</p>
-            <p>For verified administrative or B2B inquiries, please route communications to: <span class="contact">[ADMIN EMAIL]</span></p>
+            <p>For verified administrative or B2B inquiries, please route communications to: <span class="contact">[desiredandfun@gmail.com]</span></p>
         </div>
     </main>
 
     <footer>
-        <p>&copy; 2026 [COMPANY NAME]. All rights reserved.</p>
+        <p>&copy; 2026 [ELIXIR]. All rights reserved.</p>
         
         <div class="privacy-policy">
             <h3>Standard Privacy & Data Notice</h3>
